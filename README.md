@@ -32,4 +32,4 @@ Ao final deste projeto, pratiquei os principais conceitos de mapeamento objeto r
 
   
 
-Projeto desenvolvido para o LAB S"pring Data JPA na prática" oferecido gratuitamente pela plataforma de cursos online [Digital Innovation One](https://www.dio.me) . Projeto base disponível em: https://github.com/cami-la/academia-digital/.
+Projeto desenvolvido para o LAB "Spring Data JPA na prática" oferecido gratuitamente pela plataforma de cursos online [Digital Innovation One](https://www.dio.me) . Projeto base disponível em: https://github.com/cami-la/academia-digital/.
